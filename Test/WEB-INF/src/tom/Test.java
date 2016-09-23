@@ -17,6 +17,7 @@ public class Test {
 		System.out.println("HI");
 		System.out.println("Take Care");
 		System.out.println("bye");
+		System.out.println("ok");
 
 	}
 
